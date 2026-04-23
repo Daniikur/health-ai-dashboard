@@ -1,0 +1,1625 @@
+date,test_name,value,unit,reference_low,reference_high,category,flag,source_file
+2026-04-23,Cholesterol,1.97,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.04,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.09,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.17,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.22,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.28,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.33,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.35,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.38,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.4,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.43,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.46,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.48,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.51,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.53,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.56,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.59,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.61,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.64,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.66,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.69,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.72,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.74,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.77,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.79,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.82,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.84,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.87,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.9,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.92,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.95,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,2.97,mmol/L,3.0,5.2,Lipid Panel,L,TCHOL_J.csv
+2026-04-23,Cholesterol,3.0,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.03,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.05,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.08,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.1,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.13,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.15,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.18,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.21,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.23,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.26,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.28,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.31,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.34,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.36,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.39,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.41,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.44,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.47,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.49,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.52,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.54,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.57,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.59,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.62,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.65,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.67,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.7,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.72,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.75,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.78,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.8,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.83,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.85,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.88,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.9,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.93,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.96,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,3.98,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.01,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.03,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.06,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.09,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.11,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.14,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.16,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.19,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.22,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.24,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.27,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.29,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.32,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.34,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.37,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.4,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.42,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.45,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.47,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.5,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.53,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.55,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.58,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.6,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.63,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.65,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.68,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.71,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.73,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.76,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.78,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.81,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.84,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.86,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.89,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.91,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.94,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.97,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,4.99,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.02,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.04,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.07,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.09,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.12,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.15,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.17,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.2,mmol/L,3.0,5.2,Lipid Panel,N,TCHOL_J.csv
+2026-04-23,Cholesterol,5.22,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.25,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.28,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.3,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.33,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.35,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.38,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.4,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.43,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.46,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.48,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.51,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.53,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.56,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.59,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.61,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.64,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.66,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.69,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.72,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.74,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.77,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.79,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.82,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.84,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.87,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.9,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.92,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.95,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,5.97,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.0,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.03,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.05,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.08,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.1,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.13,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.15,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.18,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.21,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.23,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.26,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.28,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.31,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.34,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.36,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.39,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.41,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.44,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.47,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.49,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.52,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.54,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.57,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.59,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.62,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.65,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.67,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.7,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.72,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.75,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.78,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.8,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.83,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.85,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.88,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.9,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.93,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.96,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,6.98,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.01,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.03,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.06,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.09,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.11,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.14,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.16,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.19,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.21,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.24,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.27,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.29,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.32,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.34,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.37,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.4,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.42,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.45,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.47,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.5,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.53,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.55,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.58,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.6,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.65,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.68,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.71,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.73,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.76,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.78,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.81,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.84,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.86,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.89,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.94,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.96,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,7.99,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.02,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.04,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.07,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.09,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.15,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.17,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.25,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.28,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.3,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.38,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.46,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.48,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.53,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.56,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.64,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.66,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.77,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,8.79,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.1,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.15,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.44,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.46,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.57,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.72,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,9.93,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,10.76,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,11.07,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,11.15,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Cholesterol,11.53,mmol/L,3.0,5.2,Lipid Panel,H,TCHOL_J.csv
+2026-04-23,Glucose,2.61,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,2.94,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.44,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.5,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.55,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.66,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.72,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.83,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.89,mmol/L,3.9,5.5,Metabolic Panel,L,GLU_J.csv
+2026-04-23,Glucose,3.94,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.0,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.05,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.11,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.16,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.22,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.27,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.33,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.39,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.44,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.5,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.55,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.61,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.66,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.72,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.77,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.83,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.88,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,4.94,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.0,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.05,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.11,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.16,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.22,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.27,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.33,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.38,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.44,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.5,mmol/L,3.9,5.5,Metabolic Panel,N,GLU_J.csv
+2026-04-23,Glucose,5.55,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.61,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.66,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.72,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.77,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.83,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.88,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,5.94,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.05,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.11,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.16,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.22,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.27,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.33,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.38,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.44,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.49,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.55,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.61,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.66,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.72,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.77,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.83,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.88,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.94,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,6.99,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.05,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.11,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.16,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.22,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.27,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.33,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.38,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.44,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.49,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.55,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.66,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.72,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.77,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.83,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.88,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.94,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,7.99,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.05,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.16,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.22,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.27,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.33,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.38,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.44,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.49,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.55,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.66,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.72,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.77,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.83,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.88,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.94,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,8.99,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.05,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.16,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.21,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.27,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.33,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.38,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.44,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.49,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.55,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.66,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.71,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.77,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.83,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.88,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,9.94,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.5,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.7,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,10.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.5,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.7,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,11.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.5,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.7,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,12.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,13.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,14.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,15.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,15.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,15.7,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,15.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,15.9,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.5,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,16.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,17.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,17.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,17.5,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,17.7,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,17.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,18.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,18.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,18.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,19.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,19.2,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,19.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,19.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,19.8,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,20.3,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,21.1,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,21.6,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,23.4,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,Glucose,25.0,mmol/L,3.9,5.5,Metabolic Panel,H,GLU_J.csv
+2026-04-23,HDL,0.26,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.28,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.47,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.54,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.57,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.59,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.62,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.65,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.67,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.7,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.72,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.75,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.78,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.8,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.83,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.85,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.88,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.91,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.93,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.96,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,0.98,mmol/L,1.0,2.0,Lipid Panel,L,HDL_J.csv
+2026-04-23,HDL,1.01,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.03,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.06,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.09,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.11,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.14,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.16,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.19,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.22,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.24,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.27,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.29,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.32,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.34,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.37,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.4,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.42,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.45,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.47,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.5,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.53,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.55,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.58,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.6,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.63,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.66,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.68,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.71,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.73,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.76,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.78,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.81,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.84,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.86,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.89,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.91,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.94,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.97,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,1.99,mmol/L,1.0,2.0,Lipid Panel,N,HDL_J.csv
+2026-04-23,HDL,2.02,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.04,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.07,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.09,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.12,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.15,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.17,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.2,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.22,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.25,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.28,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.3,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.33,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.35,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.38,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.4,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.43,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.46,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.48,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.51,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.53,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.56,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.59,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.61,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.64,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.66,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.69,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.72,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.74,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.79,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.84,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,2.97,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.0,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.03,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.05,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.13,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.15,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.21,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.26,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.34,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.54,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.59,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.65,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.8,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,3.9,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,4.29,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,4.6,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,HDL,4.89,mmol/L,1.0,2.0,Lipid Panel,H,HDL_J.csv
+2026-04-23,Hemoglobin,6.4,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,6.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,6.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.0,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.2,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.3,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.5,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.6,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.8,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,7.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.1,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.2,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.3,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.4,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.5,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.6,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.8,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,8.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.0,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.1,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.3,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.4,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.5,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.6,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.8,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,9.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.0,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.1,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.2,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.3,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.4,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.5,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.6,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.8,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,10.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.0,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.1,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.2,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.3,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.4,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.5,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.6,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.7,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.8,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,11.9,g/dL,12.0,17.0,Complete Blood Count,L,CBC_J.csv
+2026-04-23,Hemoglobin,12.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.1,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.2,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.3,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.4,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.5,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.6,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.7,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.8,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,12.9,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.1,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.2,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.3,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.4,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.5,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.6,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.7,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.8,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,13.9,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.1,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.2,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.3,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.4,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.5,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.6,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.7,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.8,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,14.9,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.1,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.2,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.3,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.4,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.5,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.6,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.7,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.8,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,15.9,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.1,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.2,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.3,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.4,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.5,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.6,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.7,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.8,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,16.9,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,17.0,g/dL,12.0,17.0,Complete Blood Count,N,CBC_J.csv
+2026-04-23,Hemoglobin,17.1,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.2,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.3,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.4,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.5,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.6,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.7,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.8,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,17.9,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.0,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.1,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.4,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.5,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.6,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,18.7,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,19.1,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,19.2,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Hemoglobin,19.9,g/dL,12.0,17.0,Complete Blood Count,H,CBC_J.csv
+2026-04-23,Vitamin D,9.96,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,11.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,11.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,11.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,12.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,12.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,12.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,12.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,12.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,13.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,13.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,13.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,13.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,13.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,14.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,15.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,16.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,17.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,18.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,19.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,20.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,21.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,22.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,23.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,24.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,25.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,26.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,27.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,28.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,29.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,30.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,31.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,32.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,33.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,34.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,35.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,36.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,37.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,38.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,39.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,40.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,41.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,42.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,43.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,44.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,45.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,46.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,47.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,48.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.0,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.1,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.2,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.3,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.4,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.5,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.6,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.7,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.8,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,49.9,nmol/L,50.0,125.0,Vitamins & Minerals,L,VID_J.csv
+2026-04-23,Vitamin D,50.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,50.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,51.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,52.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,53.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,54.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,55.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,56.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,57.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,58.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,59.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,60.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,61.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,62.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,63.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,64.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,65.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,66.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,67.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,68.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,69.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,70.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,71.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,72.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,73.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,74.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,75.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,76.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,77.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,78.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,79.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,80.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,81.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,82.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,83.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,84.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,85.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,86.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,87.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,88.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,89.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,90.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,91.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,92.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,93.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,94.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,95.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,96.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,97.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,98.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.1,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.2,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.3,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.4,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.5,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.6,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.7,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.8,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,99.9,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,100.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,101.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,102.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,103.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,104.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,105.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,106.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,107.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,108.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,109.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,110.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,111.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,112.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,113.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,114.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,115.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,116.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,117.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,118.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,119.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,120.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,121.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,122.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,123.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,124.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,125.0,nmol/L,50.0,125.0,Vitamins & Minerals,N,VID_J.csv
+2026-04-23,Vitamin D,126.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,127.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,128.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,129.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,130.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,131.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,132.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,133.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,134.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,135.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,136.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,137.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,138.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,139.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,140.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,141.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,142.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,143.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,144.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,145.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,146.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,147.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,148.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,149.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,150.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,151.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,152.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,153.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,154.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,155.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,156.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,157.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,158.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,159.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,160.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,162.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,163.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,164.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,165.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,166.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,167.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,168.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,170.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,171.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,172.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,173.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,176.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,177.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,186.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,187.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,190.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,191.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,192.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,194.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,196.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,197.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,198.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,199.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,200.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,202.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,203.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,206.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,207.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,215.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,216.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,219.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,224.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,238.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,255.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
+2026-04-23,Vitamin D,257.0,nmol/L,50.0,125.0,Vitamins & Minerals,H,VID_J.csv
