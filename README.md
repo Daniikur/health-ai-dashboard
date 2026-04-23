@@ -21,7 +21,7 @@ Dark-cream paper aesthetic with *Instrument Serif* + *Spectral*. Switchable EN/R
 ## Install
 
 ```bash
-npx skills add tilek/graph-health-skill
+npx skills add Daniikur/health-ai-dashboard
 ```
 
 The [`npx skills`](https://github.com/vercel-labs/skills) CLI detects whatever agents you have installed (Claude Code, OpenCode, Codex, …) and wires the skill into each. Use `-g` for a user-wide install, `-a <agent>` to target one agent, `-y` to skip prompts.
